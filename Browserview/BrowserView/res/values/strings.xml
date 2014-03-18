@@ -8,6 +8,6 @@
  ! Visit http://www.pragmaticprogrammer.com/titles/eband for more book information.
 -->
 <resources>
-   <string name="app_name">BrowserIntent</string>
+   <string name="app_name">BrowserView</string>
    <string name="go_button">Go</string>
 </resources>
